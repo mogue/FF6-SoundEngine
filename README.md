@@ -13,6 +13,9 @@ Assemble with Asar 1.7+
 ## Thanks to
 
 madsiur, everything, emberling, Novalia Spirit and Evil Peer
+
 The people of FF6hacking.com
+
 The people of slickproductions.org
+
 Alcaro and randomdude999 for Asar help
