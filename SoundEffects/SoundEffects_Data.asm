@@ -99,8 +99,8 @@ dw SFX_Scripts_End-SFX_Scripts_Start
 ;  org $C5205E
 
 SFX_Scripts_Start:
-incbin Scripts/Pointers_to_Game_Sound_Effect_Scripts.bin
-incbin Scripts/Game_Sound_Effect_Scripts.bin
+incsrc SoundEffects_Pointers.asm
+incsrc SoundEffects_Scripts.asm
 
 ;padbyte $FF
 ;pad $C53C5D
